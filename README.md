@@ -27,7 +27,7 @@ undo
 redo
 -- redo the latest undo
 
-Example game:
+Example game (view in Raw to see the right layout):
 
   # of chess pieces on board: 0
   Game being Setup...
